@@ -1,2 +1,2 @@
 #!/bin/bash
-grph "root" /etc/passwd
+grph root /etc/passwd
